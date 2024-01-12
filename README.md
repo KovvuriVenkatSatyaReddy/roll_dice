@@ -1,6 +1,6 @@
 # roll_dice
 
-A new Flutter project.
+This is my first flutter application. This application imitates the rolling of a dice and displays a random number between 1 and 6 on a single button press
 
 ## Getting Started
 
